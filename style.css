@@ -1,0 +1,147 @@
+.first-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.half-width
+{
+    width: 50%;
+    margin: 5px 20px 5px 10px;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 70%;
+}
+.half-width h1{
+    font-size: 60px;
+}
+.color-change{
+    color: #f66760 ;
+}
+.hello
+{
+    color: darkblue;
+}
+.hello2{
+    color: darkblue;
+    font-size: 50px;
+}
+.btn1{
+    text-decoration: none;
+    background-color: #f66760;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    margin: -5px;
+    
+}
+.btn1:hover{
+    background-color: tomato;
+}
+
+
+.second-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dwnld{
+    text-decoration: none;
+    background-color: #f66760;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    margin: -5px;
+
+}
+.dwnld:hover{
+    background-color: tomato;
+}
+.third-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+
+}
+.third-row h3{
+    margin-left: 38px;
+}
+.working-list{
+    margin-top: 15px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+p{
+    color: gray;
+}
+
+/* .wrkinjry{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 50%;
+} */
+.containerr{
+    background-image: url("images/work-injury.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    /* border: 1px solid; */
+    width: 40%;
+    /* majhkhane anar jonni */
+    margin: 0px auto ;     
+    padding: 45px 20px;
+    border-radius: 25px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+   
+}
+.in-image{
+    text-align: left-top;
+    margin: -3px 30px 4px -150px;
+    color: white;
+    padding: -50px;
+}
+.buttom-style{
+    text-decoration: none;
+    background-color: #f66760;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    /* margin: 0px 20px 20px 300px; */
+}
+.buttom-style:hover{
+    background-color: tomato;
+}
+.cnt{
+    color: gray;
+    text-align: center;
+}
+.sd{
+    text-align: center;
+}
+.all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin: 5px 50px 5px 350px;
+    padding: 10px;
+    
+   
+}
+.all img{
+    height: 50px;
+    margin-left: 5px;
+}
+.containerr h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
+
+
