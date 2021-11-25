@@ -34,6 +34,7 @@
     color: white;
     font-weight: 700;
     margin: -5px;
+    margin-bottom: 10px;
     
 }
 .btn1:hover{
@@ -129,7 +130,7 @@ p{
     justify-content: center;
     align-items: center;
     width: 50%;
-    margin: 5px 50px 5px 350px;
+    margin: 5px 50px 5px 250px;
     padding: 10px;
     
    
